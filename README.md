@@ -1,0 +1,2 @@
+# funcDjango
+Изучаю функции python
